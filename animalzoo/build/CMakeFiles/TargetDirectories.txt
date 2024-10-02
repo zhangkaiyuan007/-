@@ -1,0 +1,4 @@
+/home/robert_kaiyuan/animalzoo/build/CMakeFiles/ZooLib.dir
+/home/robert_kaiyuan/animalzoo/build/CMakeFiles/ZooApp.dir
+/home/robert_kaiyuan/animalzoo/build/CMakeFiles/edit_cache.dir
+/home/robert_kaiyuan/animalzoo/build/CMakeFiles/rebuild_cache.dir

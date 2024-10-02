@@ -1,0 +1,2 @@
+/usr/bin/ar qc libZooLib.a CMakeFiles/ZooLib.dir/src/zoo.cpp.o
+/usr/bin/ranlib libZooLib.a

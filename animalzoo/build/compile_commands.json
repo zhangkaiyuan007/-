@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/robert_kaiyuan/animalzoo/build",
+  "command": "/usr/bin/c++  -I/home/robert_kaiyuan/animalzoo/include -std=gnu++17 -o CMakeFiles/ZooLib.dir/src/zoo.cpp.o -c /home/robert_kaiyuan/animalzoo/src/zoo.cpp",
+  "file": "/home/robert_kaiyuan/animalzoo/src/zoo.cpp"
+},
+{
+  "directory": "/home/robert_kaiyuan/animalzoo/build",
+  "command": "/usr/bin/c++  -I/home/robert_kaiyuan/animalzoo/include -std=gnu++17 -o CMakeFiles/ZooApp.dir/src/main.cpp.o -c /home/robert_kaiyuan/animalzoo/src/main.cpp",
+  "file": "/home/robert_kaiyuan/animalzoo/src/main.cpp"
+}
+]
