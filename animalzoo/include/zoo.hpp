@@ -27,7 +27,7 @@ public:
     }  
 };  
   
-// Elephant 类，继承自 Animal（省略了具体实现，与Lion类似）  
+// Elephant 类，继承自 Animal  
 class Elephant : public Animal {  
 public:  
     void makeSound() const override {  
@@ -41,7 +41,7 @@ public:
     }  
 };  
   
-// Penguin 类，继承自 Animal（省略了具体实现，与Lion类似）  
+// Penguin 类，继承自 Animal  
 class Penguin : public Animal {  
 public:  
     void makeSound() const override {  
